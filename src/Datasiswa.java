@@ -154,7 +154,7 @@ public class Datasiswa extends javax.swing.JFrame {
         jScrollPane2.setViewportView(jTable2);
 
         jButton1.setBackground(new java.awt.Color(204, 204, 204));
-        jButton1.setText("Finish");
+        jButton1.setText("Menu");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);

@@ -180,7 +180,7 @@ public class formisidata extends javax.swing.JFrame {
         });
         jPanel2.add(btnBrowseFile, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 180, 100, 20));
         jPanel2.add(ijazah, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 180, 140, -1));
-        jPanel2.add(foto, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 210, 140, 20));
+        jPanel2.add(foto, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 210, 140, -1));
 
         btnselesai.setText("Back");
         btnselesai.addActionListener(new java.awt.event.ActionListener() {
